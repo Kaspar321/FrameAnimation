@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrameAnimation", "FrameAnimation\FrameAnimation.csproj", "{68F66A76-E740-424C-B33E-73057061065A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68F66A76-E740-424C-B33E-73057061065A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68F66A76-E740-424C-B33E-73057061065A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68F66A76-E740-424C-B33E-73057061065A}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{68F66A76-E740-424C-B33E-73057061065A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68F66A76-E740-424C-B33E-73057061065A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68F66A76-E740-424C-B33E-73057061065A}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3C5DE834-B838-47C0-87A6-8606DF3124D3}
+	EndGlobalSection
+EndGlobal
